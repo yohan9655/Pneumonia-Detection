@@ -2,6 +2,7 @@
 ## Evaluating the performance of different models with Pneumonia
 ### Models Used -
 #### CustomNet (Custom Network)
+<html>
 <div class="row">
  <div class="column">
    <figure>
@@ -10,3 +11,4 @@
   </figure>
  </div>
 </div>
+ </html>
