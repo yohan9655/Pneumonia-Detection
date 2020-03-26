@@ -17,7 +17,7 @@
          </div>
          <div class="column"
                   <figure>
-                     <img align="middle" width="950" height="1420" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/Model%20Architecture/modelA_1.jpg">
+                     <img align="left" width="950" height="1420" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/Model%20Architecture/modelA_1.jpg">
                      <figcaption>Fig. 3: Architecture</figcaption>
                   </figure>
          </div>
