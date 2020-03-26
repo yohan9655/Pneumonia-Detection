@@ -16,7 +16,7 @@
                   </figure>
          </div>
 </html>
-<h4> InceptionV3 </h4>
+<h4 style="text-align:center;"> InceptionV3 </h4>
 <html>
          <div class="column"
                   <figure>
