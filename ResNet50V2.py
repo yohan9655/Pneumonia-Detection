@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 24 15:35:52 2019
-
-@author: Yohan
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 24 01:40:19 2019
-
-@author: Yohan
-"""
 
 from tensorflow.keras import backend as k
 from tensorflow.keras.models import Sequential
