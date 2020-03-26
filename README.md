@@ -9,4 +9,5 @@
   <img align="right" width="640" height="478" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/graphs/InceptionLossVsEpoch.jpeg">
  <figcaption>**Fig. 1:** Loss Vs Epoch</figcaption>
 </figure>
+d
 
