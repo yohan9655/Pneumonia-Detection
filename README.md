@@ -6,20 +6,20 @@
 <html>
          <div class="column"
                   <figure>
+                     <img align="left" width="950" height="1420" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/Model%20Architecture/modelA_1.jpg">
+                     <figcaption>Fig. 1: Architecture</figcaption>
+                  </figure>
+         </div>
+         <div class="column"
+                  <figure>
                      <img align="middle" width="640" height="478" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/graphs/CustomNetAccVsEpoch.jpeg">
-                     <figcaption>Fig. 1: Accuracy Vs Epoch</figcaption>
+                     <figcaption>Fig. 2: Accuracy Vs Epoch</figcaption>
                   </figure>
          </div>
          <div class="column"
                   <figure>
                      <img align="middle" width="640" height="478" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/graphs/CustomNetLossVsEpoch.jpeg">
-                     <figcaption>Fig. 2: Loss Vs Epoch</figcaption>
-                  </figure>
-         </div>
-         <div class="column"
-                  <figure>
-                     <img align="left" width="950" height="1420" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/Model%20Architecture/modelA_1.jpg">
-                     <figcaption>Fig. 3: Architecture</figcaption>
+                     <figcaption>Fig. 3: Loss Vs Epoch</figcaption>
                   </figure>
          </div>
 <h4> InceptionV3 </h4>
@@ -45,7 +45,7 @@
          <div class="column"
                   <figure>
                      <img align="middle" width="640" height="478" src="https://github.com/yohan9655/Pneumonia-Detection/blob/master/graphs/ResNet50V2LossVsEpoch.jpeg">
-                     <figcaption>Fig. 6: Loss Vs Epoch</figcaption>
+                     <figcaption>Fig. 7: Loss Vs Epoch</figcaption>
                   </figure>
          </div>
 <h4> DenseNet </h4>
