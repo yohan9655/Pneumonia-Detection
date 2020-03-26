@@ -1,5 +1,5 @@
 # Pneumonia-Detection
-## Evaluating the performance of different models with Pneumonia
+## Evaluating the performance of different models with Pneumonia Dataset
 ### Dataset Used - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 ### Models Used -
 #### CustomNet (Custom Network)
